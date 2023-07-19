@@ -1,10 +1,11 @@
 # rst-csv
 Rust CSV Example
 
-To compile:
+## To compile:
+
 cargo build --release
 
-To run:
+## To run:
+
  ./target/release/csv > test.csv
 
- 

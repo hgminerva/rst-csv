@@ -1,4 +1,4 @@
-# rst-csv
+# rust-csv
 Rust CSV Example
 
 ## To compile:
